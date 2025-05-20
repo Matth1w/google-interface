@@ -4,6 +4,15 @@
     margin: 0;
 }
 
+:root {
+    /* cores */
+    --cor-principal: #0c0c1a;
+
+    /* tamanhos */
+}
+
 main {
-    
+    width: 100%;
+    height: 100vh;
+    background: var(--cor-principal);
 }
